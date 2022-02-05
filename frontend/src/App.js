@@ -11,7 +11,8 @@ function App() {
     <div className="app">
       <Logo />
       <Menu />
-      <Main />
+      <Main icon="home" title="Início"
+          subtitle="Segundo projeto do capítulo de React."/>
       <Footer />
     </div>
   </>
