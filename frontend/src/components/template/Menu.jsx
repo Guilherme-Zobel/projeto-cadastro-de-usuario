@@ -11,8 +11,7 @@ export default function Menu() {
           </a>
           <a href="/users">
             <i className="fa fa-users"></i> Usuários
-          </a>
-             
+          </a>     
         </nav>
     </aside>
   );
