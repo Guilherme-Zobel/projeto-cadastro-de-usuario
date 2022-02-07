@@ -6,10 +6,10 @@ export default function Menu() {
     <aside className="menu-area">
         <nav className="menu">
           {/* Lembrar de refatorar! */}
-          <a href="#/">
+          <a href="/">
             <i className="fa fa-home"></i> Início
           </a>
-          <a href="#/users">
+          <a href="/users">
             <i className="fa fa-users"></i> Usuários
           </a>
              
