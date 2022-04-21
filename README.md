@@ -2,7 +2,7 @@
 
 ### 💻 O projeto
 
-#### Projeto desenvolvido em estudo na plataforma da Udemy chamado Curso Web Moderno com JavaScript diregido e criado pela Cod3r o qual visa fazer um CRUD unindo back-end com front-end usando as ferramentas Axios e React,
+#### Projeto desenvolvido em estudo na plataforma da Udemy chamado Curso Web Moderno com JavaScript diregido e criado pela Cod3r o qual visa fazer um CRUD unindo back-end com front-end usando as ferramentas Axios e React.
 
 ### 🧰 Tecnologias
 - [ReactJS](https://pt-br.reactjs.org/)
